@@ -1,4 +1,4 @@
-# dino
+# dino game
 
 Modified version of thecodepost.org's "Ripped T-Rex/Dino game of Chromium."
 Modified to have no sound, no frame, other extras and facebook tracking removed. 
